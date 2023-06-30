@@ -3,6 +3,7 @@ layout: "@layouts/ArticleLayout.astro"
 title: About Us 
 date: 30 June 2023
 image: /images/my-second-article/rick.jpg
+imageDescription: A bit about who we are. 
 ---
 <p class="font-noto sans text-3xl text-center font-bold">
 An Indian Rickshaw: Comfortable, Convenient, Classic </p> 

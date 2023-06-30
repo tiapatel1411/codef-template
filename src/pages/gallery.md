@@ -2,7 +2,7 @@
 layout: "@layouts/ArticleLayout.astro"
 title: Gallery
 date: 30 June 2023
-image: /images/...
+image: /images/gallery2.jpg
 imageDescription: 
 draft: true
 ---
@@ -17,16 +17,7 @@ draft: true
             justify-content: center;
         }
         
-        .gallery-item {
-            margin: 10px;
-            width: 200px;
-        }
-        
-        .gallery-item img {
-            width: 100%;
-            height: auto;
-        }
-    </style>
+    
 </head>
 <body>
     <div class="gallery">
@@ -49,9 +40,6 @@ draft: true
             <img src="/images/image6.jpg" alt="Image 4">
         </div>
         <div class="gallery-item">
-            <img src="/images/image7.jpg" alt="Image 4">
-        </div>
-        <div class="gallery-item">
             <img src="/images/image8.jpg" alt="Image 4">
         </div>
         <div class="gallery-item">
@@ -61,7 +49,7 @@ draft: true
             <img src="/images/image11.jpg" alt="Image 4">
         </div>
         <div class="gallery-item">
-            <img src="/images/image12.jpg" alt="Image 4">
+            <img src="/images/image13.jpg" alt="Image 4">
         </div>
     </div>
 </body>
